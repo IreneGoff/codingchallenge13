@@ -7,3 +7,5 @@ document.addEventListener('DOMContentLoaded', () => {
     const productName = document.getElementById('product-name');
     const productPrice = document.getElementById('product-price');
     const productDescription = document.getElementById('product-description');
+    const prevButton = document.getElementById('prev');
+    const nextButton = document.getElementById('next');
